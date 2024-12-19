@@ -22,6 +22,7 @@ list_of_files=[".github/workflows/.gitkeep"
                ,"requirements.txt"
                ,"setup.py"
                ,"research/trials.ipynb"
+               ,"templates/index.html"
                ]
 for filepath in list_of_files:
     filepath = Path(filepath)
